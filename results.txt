@@ -1,0 +1,1 @@
+{banana=37, papaya=36, date=39, cherry=42, raspberry=43, kiwi=35, nectarine=37, yam=42, tangerine=34, fig=42, strawberry=40, zucchini=46, grape=31, elderberry=48, xigua=60, mango=39, orange=54, honeydew=37, apple=43, lemon=40, ugli=45, watermelon=46, quince=44, vanilla=40}
